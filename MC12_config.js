@@ -9,7 +9,7 @@ config.card_account = '5599 0020 1251 1020';
 
 // Системные параметры бота:
 config.proxy = null;//'http://@36.66.98.232:52851'; // Прокси для соединения с серверами Telegram http://HohrVp:6H8BY2@81.4.108.157:35357
-config.qiwi = '3b971d67468b2009e9a6043da9e98f21'; // API ключ QIWI кошелька (первые 3 галочки доступа)
+config.qiwi = ''; // API ключ QIWI кошелька (первые 3 галочки доступа)
 //config.mongodb = "mongodb://c52302_scroohhhhge_bot:XaNmuBoqxiyiw33@mongo1.c52302.h2,mongo2.c52302.h2,mongo3.c52302.h2/c52302_scroohhhhge_bot?replicaSet=MongoReplica"; // URL MongoDB базы
 config.mongodb = "mongodb://127.0.0.1:27017"
 config.token = "5145635709:AAGBQoBz4CdeM5F0QuGbiozlCyh3k2wsLlk"; // API ключ бота
